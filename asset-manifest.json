@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yamunaji-shudhikaran/static/css/main.328c9e88.css",
-    "main.js": "/yamunaji-shudhikaran/static/js/main.862ec5ef.js",
+    "main.js": "/yamunaji-shudhikaran/static/js/main.4ae61ba2.js",
     "static/js/787.870768ba.chunk.js": "/yamunaji-shudhikaran/static/js/787.870768ba.chunk.js",
     "static/media/logo.png": "/yamunaji-shudhikaran/static/media/logo.38c829aef7417420c006.png",
     "static/media/primeicons.svg": "/yamunaji-shudhikaran/static/media/primeicons.e1441b135b3ca9ad643c.svg",
@@ -11,11 +11,11 @@
     "static/media/primeicons.woff2": "/yamunaji-shudhikaran/static/media/primeicons.78172950b335ccdb94e2.woff2",
     "index.html": "/yamunaji-shudhikaran/index.html",
     "main.328c9e88.css.map": "/yamunaji-shudhikaran/static/css/main.328c9e88.css.map",
-    "main.862ec5ef.js.map": "/yamunaji-shudhikaran/static/js/main.862ec5ef.js.map",
+    "main.4ae61ba2.js.map": "/yamunaji-shudhikaran/static/js/main.4ae61ba2.js.map",
     "787.870768ba.chunk.js.map": "/yamunaji-shudhikaran/static/js/787.870768ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.328c9e88.css",
-    "static/js/main.862ec5ef.js"
+    "static/js/main.4ae61ba2.js"
   ]
 }
